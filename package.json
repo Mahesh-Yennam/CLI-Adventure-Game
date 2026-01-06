@@ -1,0 +1,17 @@
+{
+  "name": "cli-adventure-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2"
+  }
+}
