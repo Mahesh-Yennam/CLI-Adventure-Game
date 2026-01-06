@@ -4,4 +4,4 @@ Node.js, readline/promises (in build module)
 
 npm run start
 
-![Screenshot](image/screenshot.png)
+![Screenshot](images/screenshot.png)
