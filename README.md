@@ -1,6 +1,6 @@
 # CLI Adventure Game
 
-Node.js, readline/promises (in build module)
+Node.js, readline/promises (built-in module)
 
 npm run start
 
